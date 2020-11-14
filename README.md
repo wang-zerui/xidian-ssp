@@ -1,1 +1,1 @@
-# xidian_ssp
+# xidian-ssp
